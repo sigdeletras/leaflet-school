@@ -9,9 +9,8 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 ## 110 Leaflet Capas
 
-- capa Tile
-- capa CartoDB
-- capas WMS
+- Capa Tile
+- Capas WMS [Enlace](http://bl.ocks.org/sigdeletras/57790d8540f8ada4ab8d668992c1fcb7)
 - capa GeoJSON
 - Imágen
 
