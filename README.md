@@ -35,6 +35,7 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 - Popup
 
 ## 190 Extensiones
+- Leaflet.markercluster [Enlace](http://bl.ocks.org/sigdeletras/2e5e1c785d6e2662006ff44f59e33a38)
 
 ## 200 JQuery
 
