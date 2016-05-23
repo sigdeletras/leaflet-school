@@ -24,16 +24,17 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 - Escala [Enlace](http://bl.ocks.org/sigdeletras/669a78d38941190d23a6a55fe9cad549)
 - Logo
 
+## 130 Leaflet Popup
+
+- Uso de bindPopup con Marker
+- Uso de alt con Marker
+- Uso de Popup
+
 ## 140 Leaflet Simbología
 
 - Simbologías para punto [Enlace](http://bl.ocks.org/sigdeletras/b61d7aed65a7af157bca55527b0dbec0)
 - Simbología línea y polígono [Enlace](http://bl.ocks.org/sigdeletras/ea1904ddc451c5aaaba120895d45f912)
 
-## 150 Leaflet Popup
-
-- Uso de bindPopup con Marker
-- Uso de alt con Marker
-- Uso de Popup
 
 ## 190 Extensiones
 - Leaflet.markercluster [Enlace](http://bl.ocks.org/sigdeletras/2e5e1c785d6e2662006ff44f59e33a38)
