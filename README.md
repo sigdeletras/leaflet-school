@@ -21,7 +21,7 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 - Control de capas [Enlace](http://bl.ocks.org/sigdeletras/d2b51cf8dd330a2a4da3b08d0e97e356)
 - Agrupar capas
-- Escala
+- Escala [Enlace](http://bl.ocks.org/sigdeletras/669a78d38941190d23a6a55fe9cad549)
 - Logo
 
 ## 140 Leaflet Simbología
@@ -31,7 +31,9 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 ## 150 Leaflet Popup
 
-- Popup
+- Uso de bindPopup con Marker
+- Uso de alt con Marker
+- Uso de Popup
 
 ## 190 Extensiones
 - Leaflet.markercluster [Enlace](http://bl.ocks.org/sigdeletras/2e5e1c785d6e2662006ff44f59e33a38)
