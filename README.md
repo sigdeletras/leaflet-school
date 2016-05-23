@@ -26,7 +26,7 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 ## 140 Leaflet Simbología
 
-- Simbologías para punto [Enlace]()
+- Simbologías para punto [Enlace](http://bl.ocks.org/sigdeletras/b61d7aed65a7af157bca55527b0dbec0)
 - Simbología línea
 - Simbología polígono
 
@@ -36,11 +36,3 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 ## 190 Extensiones
 - Leaflet.markercluster [Enlace](http://bl.ocks.org/sigdeletras/2e5e1c785d6e2662006ff44f59e33a38)
-
-## 200 JQuery
-
-- Zum a capa
-
-## 300 Bootstrap
-
-- Integración Bootstrap y Leaflet
