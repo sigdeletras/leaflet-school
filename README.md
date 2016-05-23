@@ -26,8 +26,7 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 ## 140 Leaflet Simbología
 
-- Simbología punto
-- Simbología de punto con imágen
+- Simbologías para punto [Enlace]()
 - Simbología línea
 - Simbología polígono
 
