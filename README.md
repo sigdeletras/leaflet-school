@@ -13,10 +13,11 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 - Capa Tile [Enlace](http://bl.ocks.org/sigdeletras/ef9da2943b79927f02988956376c958b)
 - Capas WMS [Enlace](http://bl.ocks.org/sigdeletras/57790d8540f8ada4ab8d668992c1fcb7)
+- Imágen Georreferenciada [Enlace](http://bl.ocks.org/sigdeletras/681cb05e79a54552a0d6c25dd826ec51)
 - Capa GeoJSON [Enlace](http://bl.ocks.org/sigdeletras/3888de4540dfc1d47682f1cb78765e18)
 - Capa GeoJSON desde archivo js [Enlace](http://bl.ocks.org/sigdeletras/931e41a6cb34936a2079e97a3b7ccca6)
 - Capa GeoJSON con JQuery [Enlace](http://bl.ocks.org/sigdeletras/c4bcf4068ff6b9adf1d148fdf9c0fa91)
-- Imágen
+
 
 ## 120 Leaflet Controles
 
