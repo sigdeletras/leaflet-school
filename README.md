@@ -28,7 +28,8 @@ Colección de ejemplo sencillos (gits) de Leaflet accesibles a través de [bl.oc
 
 ## 130 Leaflet Popup
 
-- Uso de bindPopup con Marker
+- Uso de bindPopup con Marker [Enlace](http://bl.ocks.org/sigdeletras/69f6ee18feeb42b5cc159936536195bf)
+- Uso de bindPopup dentro de función [Enlace](http://bl.ocks.org/sigdeletras/d8d26e1745c1f23949b7e2fd0d6ab30f)
 - Uso de alt con Marker
 - Uso de Popup
 
